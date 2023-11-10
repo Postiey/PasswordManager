@@ -1,5 +1,5 @@
 from modules.dbconn import Database
-from modules.menu import Menu
+from modules.dbconn import Menu
 import os
 import sys
 from sys import platform
